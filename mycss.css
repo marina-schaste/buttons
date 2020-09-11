@@ -1,0 +1,39 @@
+
+  .toolbar { 
+margin: auto;
+width: fit-content;
+  }
+
+
+.svg-button{
+    padding: 27px;
+    width: 35px;
+    height: 35px;
+}
+
+.toolbar-a{
+border: 1px solid #464CE3;
+background: #7E82EE;
+text-decoration: none;
+display: inline-block;
+}
+
+.toolbar-a:hover{
+background: #464CE3;
+}
+
+#account{
+	background: #F05858;
+	border-color: #DC2D2D;
+	border-radius: 0px 10px 10px 0px;
+}
+
+#account:hover{
+background: #DC2D2D;
+}
+
+#mail{
+	border-radius: 10px 0px 0px 10px;
+}
+
+
